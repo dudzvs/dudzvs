@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Teixeira</h1>
 <h3 align="center">A develepor still in progress, born and raise in Brazil, an enthusiast of technology and addicted to coffee</h3>
 
-- 🔭 I’m currently study **JavaScript, React and Node.**
+- 🔭 I’m currently study **JavaScript,TypeScript,React and Node.**
 
 - 🤝 I’m looking for help with **Projects open source, and collaborate with other developers**
 
