@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Teixeira</h1>
-<h3 align="center">A develepor still in progress, born and raise in Brazil, an enthusiast of technology and addicted to coffee</h3>
+<h3 align="center">A developer still in progress, born and raise in Brazil, an enthusiast of technology and addicted to coffee</h3>
 
 - 🔭 I’m currently study **JavaScript,TypeScript,React and Node.**
 
