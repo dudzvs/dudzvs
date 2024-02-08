@@ -12,7 +12,6 @@
 
 📧 You can reach me at: [eduardo_vteixeira@outlook.com](mailto:eduardo_vteixeira@outlook.com)
 
-⚡ Fun fact: I find joy in the simplicity of broccoli!
 
 ### Connect with me:
 
