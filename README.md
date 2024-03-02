@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://linkedin.com/in/eduardo-teixeira)
+[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/eduardo-vin%C3%ADcius-teixeira-86029b1a4/)
 [<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://instagram.com/edu.dudz)
 
 <br />
