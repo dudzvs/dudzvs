@@ -1,19 +1,18 @@
 <div align="center">
 
-# Hello, I'm Eduardo Teixeira 👋
+# Hey there, I'm Eduardo Teixeira 👋
 
-## Full Stack Developer | Brazil 🇧🇷 | Tech Enthusiast | Coffee Lover ☕
+## Full Stack Developer | Brazil 🇧🇷 | Tech Geek | Coffee Enthusiast ☕
 
 </div>
 
-🚀 Currently immersed in **JavaScript, TypeScript, React, and Node.**
+🚀 I'm currently diving deep into **JavaScript, TypeScript, React, and Node.**
 
-🤝 Open to collaborations on compelling open-source projects and eager to connect with fellow developers.
+🤝 Always up for collaborating on exciting open-source projects and connecting with fellow devs.
 
-📧 You can reach me at: [eduardo_vteixeira@outlook.com](mailto:eduardo_vteixeira@outlook.com)
+📧 Drop me a line at: [eduardo_vteixeira@outlook.com](mailto:eduardo_vteixeira@outlook.com)
 
-
-### Connect with me:
+### Let's Connect:
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/eduardo-vin%C3%ADcius-teixeira-86029b1a4/)
 [<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://instagram.com/edu.dudz)
@@ -21,7 +20,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Skills & Tools:
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
@@ -33,20 +32,16 @@
 <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
 
-
 <br />
 <br />
 <br />
 
-### Other Interests:
+### What I’m Into:
 
-- 📚 Exploring new technologies and frameworks.
+- 📚 Discovering new tech and frameworks.
 - 💻 Contributing to open-source projects.
-- 🌐 Keeping up with industry trends and best practices.
-
+- 🌐 Staying updated with industry trends and best practices.
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-brightgreen)](https://www.buymeacoffee.com/dudzvs)
 
 ---
-
-</div>
